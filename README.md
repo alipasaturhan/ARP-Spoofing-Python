@@ -6,7 +6,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install scapy.
 
 Install "Scapy" library.
 ```bash
-pip3 install scapy
+$ pip3 install scapy
 ```
 ## Usage
 Paste this command and run. You can select "help" module for script descripton.
