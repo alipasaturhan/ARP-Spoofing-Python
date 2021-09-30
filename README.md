@@ -14,6 +14,6 @@ Paste this command and run. You can select "help" module for script descripton.
 $ sudo python3 run.py
 ```
 ## About
-Proje Sahibi: Ali Paşa TURHAN
+Projct Management: Ali Paşa TURHAN
 
 81 İlde 81 Siber Kahraman
