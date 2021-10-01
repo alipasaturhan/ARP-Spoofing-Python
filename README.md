@@ -9,7 +9,7 @@ Install "Scapy" library.
 $ pip3 install scapy
 ```
 ## Usage
-Paste this command and run. You can select "help" module for script descripton.
+Paste this command and run. You can select "help" module for script description.
 ```bash
 $ sudo python3 run.py
 ```
